@@ -1,0 +1,17 @@
+C:\Users\short\OneDrive\Документы\GitHub\DrugsScedule_C_Sharp\DrugsScedule\bin\Debug\net8.0-windows\DrugsScedule.exe
+C:\Users\short\OneDrive\Документы\GitHub\DrugsScedule_C_Sharp\DrugsScedule\bin\Debug\net8.0-windows\DrugsScedule.deps.json
+C:\Users\short\OneDrive\Документы\GitHub\DrugsScedule_C_Sharp\DrugsScedule\bin\Debug\net8.0-windows\DrugsScedule.runtimeconfig.json
+C:\Users\short\OneDrive\Документы\GitHub\DrugsScedule_C_Sharp\DrugsScedule\bin\Debug\net8.0-windows\DrugsScedule.dll
+C:\Users\short\OneDrive\Документы\GitHub\DrugsScedule_C_Sharp\DrugsScedule\bin\Debug\net8.0-windows\DrugsScedule.pdb
+C:\Users\short\OneDrive\Документы\GitHub\DrugsScedule_C_Sharp\DrugsScedule\obj\Debug\net8.0-windows\DrugsScedule.Form1.resources
+C:\Users\short\OneDrive\Документы\GitHub\DrugsScedule_C_Sharp\DrugsScedule\obj\Debug\net8.0-windows\DrugsScedule.csproj.GenerateResource.cache
+C:\Users\short\OneDrive\Документы\GitHub\DrugsScedule_C_Sharp\DrugsScedule\obj\Debug\net8.0-windows\DrugsScedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\short\OneDrive\Документы\GitHub\DrugsScedule_C_Sharp\DrugsScedule\obj\Debug\net8.0-windows\DrugsScedule.AssemblyInfoInputs.cache
+C:\Users\short\OneDrive\Документы\GitHub\DrugsScedule_C_Sharp\DrugsScedule\obj\Debug\net8.0-windows\DrugsScedule.AssemblyInfo.cs
+C:\Users\short\OneDrive\Документы\GitHub\DrugsScedule_C_Sharp\DrugsScedule\obj\Debug\net8.0-windows\DrugsScedule.csproj.CoreCompileInputs.cache
+C:\Users\short\OneDrive\Документы\GitHub\DrugsScedule_C_Sharp\DrugsScedule\obj\Debug\net8.0-windows\DrugsScedule.sourcelink.json
+C:\Users\short\OneDrive\Документы\GitHub\DrugsScedule_C_Sharp\DrugsScedule\obj\Debug\net8.0-windows\DrugsScedule.dll
+C:\Users\short\OneDrive\Документы\GitHub\DrugsScedule_C_Sharp\DrugsScedule\obj\Debug\net8.0-windows\refint\DrugsScedule.dll
+C:\Users\short\OneDrive\Документы\GitHub\DrugsScedule_C_Sharp\DrugsScedule\obj\Debug\net8.0-windows\DrugsScedule.pdb
+C:\Users\short\OneDrive\Документы\GitHub\DrugsScedule_C_Sharp\DrugsScedule\obj\Debug\net8.0-windows\DrugsScedule.genruntimeconfig.cache
+C:\Users\short\OneDrive\Документы\GitHub\DrugsScedule_C_Sharp\DrugsScedule\obj\Debug\net8.0-windows\ref\DrugsScedule.dll
