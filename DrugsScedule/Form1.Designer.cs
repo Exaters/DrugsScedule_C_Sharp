@@ -34,6 +34,7 @@
             show_pass = new CheckBox();
             autorisation = new Button();
             registration = new Button();
+            to_drugs_scedule = new Label();
             SuspendLayout();
             // 
             // Welcome
@@ -50,7 +51,7 @@
             // login
             // 
             login.AllowDrop = true;
-            login.Location = new Point(405, 113);
+            login.Location = new Point(406, 145);
             login.Margin = new Padding(4, 3, 4, 3);
             login.MaxLength = 27;
             login.Name = "login";
@@ -60,7 +61,7 @@
             // password
             // 
             password.AllowDrop = true;
-            password.Location = new Point(405, 149);
+            password.Location = new Point(406, 181);
             password.Margin = new Padding(4, 3, 4, 3);
             password.MaxLength = 16;
             password.Name = "password";
@@ -71,7 +72,7 @@
             // show_pass
             // 
             show_pass.AutoSize = true;
-            show_pass.Location = new Point(458, 185);
+            show_pass.Location = new Point(459, 217);
             show_pass.Margin = new Padding(4, 3, 4, 3);
             show_pass.Name = "show_pass";
             show_pass.Size = new Size(156, 26);
@@ -82,17 +83,18 @@
             // 
             // autorisation
             // 
-            autorisation.Location = new Point(405, 217);
+            autorisation.Location = new Point(406, 249);
             autorisation.Margin = new Padding(4, 3, 4, 3);
             autorisation.Name = "autorisation";
             autorisation.Size = new Size(266, 32);
             autorisation.TabIndex = 4;
             autorisation.Text = "sing in";
             autorisation.UseVisualStyleBackColor = true;
+            autorisation.Click += autorisation_Click;
             // 
             // registration
             // 
-            registration.Location = new Point(405, 256);
+            registration.Location = new Point(406, 288);
             registration.Margin = new Padding(4, 3, 4, 3);
             registration.Name = "registration";
             registration.Size = new Size(266, 32);
@@ -101,11 +103,21 @@
             registration.UseVisualStyleBackColor = true;
             registration.Click += registration_Click;
             // 
+            // to_drugs_scedule
+            // 
+            to_drugs_scedule.AutoSize = true;
+            to_drugs_scedule.Location = new Point(468, 110);
+            to_drugs_scedule.Name = "to_drugs_scedule";
+            to_drugs_scedule.Size = new Size(138, 22);
+            to_drugs_scedule.TabIndex = 6;
+            to_drugs_scedule.Text = "to drugs scedule";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(11F, 22F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1100, 494);
+            Controls.Add(to_drugs_scedule);
             Controls.Add(registration);
             Controls.Add(autorisation);
             Controls.Add(show_pass);
@@ -128,5 +140,6 @@
         private CheckBox show_pass;
         private Button autorisation;
         private Button registration;
+        private Label to_drugs_scedule;
     }
 }

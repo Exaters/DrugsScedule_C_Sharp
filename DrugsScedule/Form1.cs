@@ -25,5 +25,10 @@ namespace DrugsScedule
             string Password = password.Text;
             MessageBox.Show("Succes");
         }
+
+        public void autorisation_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

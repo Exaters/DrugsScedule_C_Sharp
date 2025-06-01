@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DrugsScedule")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f94a59d0135e209301eb87f99f36dfa9ba42ff3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5149d98fb3d5226d768b5c3b360ef10decaeead0")]
 [assembly: System.Reflection.AssemblyProductAttribute("DrugsScedule")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DrugsScedule")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
